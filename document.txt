@@ -1,7 +1,0 @@
-Vehicles with no human driver on board were previously tested by a select group of Waymo customers, before the pandemic halted the service.
-
-The driver-free cars will initially be available only to friends and family of those early Waymo adopters, but will extend to all app users within weeks.
-
-The service comes two years later than originally promised.
-
-The cars will be remotely monitored, with vehicle operators intervening in extreme circumstances - such as a road ahead being closed.
