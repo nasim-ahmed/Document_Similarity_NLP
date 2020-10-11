@@ -5,7 +5,7 @@ Compare the similarity between two documents.A Basic NLP(Natiral Language Proces
 - NLTK(Natural Language toolkit) is a very popular library for NLP. It contains text processing libraries for tokenization, parsing, classification, stemming, tagging and semantic reasoning.
 - Gensim is a NLP package to work with word vector models(such as WOrd2Vec). 
 
-###Steps 
+### Steps 
 1) Tokenization of words (NLTK) & sentences.
 2) Tokenize sentences and then words from file, create dictionary.
 3) Create a bag of words.
